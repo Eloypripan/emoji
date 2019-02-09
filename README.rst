@@ -36,7 +36,7 @@ From master branch:
 
 .. code-block:: console
 
-    $ git clone https://github.com/carpedm20/emoji.git
+    $ git clone https://github.com/Eloypripan/emoji.git
     $ cd emoji
     $ python setup.py install
 
@@ -46,7 +46,7 @@ Developing
 
 .. code-block:: console
 
-    $ git clone https://github.com/carpedm20/emoji.git
+    $ git clone https://github.com/Eloypripan/emoji.git
     $ cd emoji
     $ pip install -e .\[dev\]
     $ nosetests
@@ -72,3 +72,5 @@ Authors
 Taehoon Kim / `@carpedm20 <http://carpedm20.github.io/about/>`__
 
 Kevin Wurster / `@geowurster <http://twitter.com/geowurster/>`__
+
+Modified by Eloypripan
