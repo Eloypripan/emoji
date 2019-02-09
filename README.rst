@@ -1,6 +1,12 @@
 Emoji
 =====
+Emoji for Python. This project was inspired by kyokomi.
 
+[![wercker status](https://app.wercker.com/status/d4061cd05f846cac1b73a3f00c816a98/s/master "wercker status")](https://app.wercker.com/project/byKey/d4061cd05f846cac1b73a3f00c816a98)
+
+[![Coverage Status](https://coveralls.io/repos/kyokomi/emoji/badge.png?branch=master)](https://coveralls.io/r/kyokomi/emoji?branch=master)
+
+[![Python](https://godoc.org/github.com/kyokomi/emoji?status.svg)](https://godoc.org/github.com/kyokomi/emoji)
 
 
 Example
