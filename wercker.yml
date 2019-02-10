@@ -6,7 +6,7 @@
 # If you want Google's container you would reference google/python
 # Read more about containers on our dev center
 # https://devcenter.wercker.com/overview-and-core-concepts/containers/
-box: python:2.7
+box: python:3.7
 # You can also use services such as databases. Read more on our dev center:
 # https://devcenter.wercker.com/administration/services/
 # services:
@@ -15,6 +15,10 @@ box: python:2.7
 
     # - mongo
     # https://devcenter.wercker.com/administration/services/examples/mongodb/
+
+    # - name: red1
+    #     id: sutoiku/redis
+    #    cmd: redis-server
 
 # This is the build pipeline. Pipelines are the core of wercker
 # Read more about pipelines on our dev center
