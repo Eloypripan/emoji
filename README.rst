@@ -75,10 +75,11 @@ Link
 
 
 Authors
--------
+------- 
+Updated in Jan 2019 by Eloy Prieto / `@Eloypripan <http://github.com/Eloypripan/>`__
+
+Initial proyect from 2004-2005
 
 Taehoon Kim / `@carpedm20 <http://carpedm20.github.io/about/>`__
 
 Kevin Wurster / `@geowurster <http://twitter.com/geowurster/>`__
-
-Modified by Eloypripan
