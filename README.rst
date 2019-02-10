@@ -26,7 +26,10 @@ both the full list and aliases.
     Python is 👍
     >> print(emoji.demojize('Python is 👍'))
     Python is :thumbs_up:
-
+    
+    >> botcid = m.chat.id
+    >> bot.send_message(cid, emoji.emojize('Bot is :thumbsup:')
+    Bot is 👍
 
 Installation
 ------------
