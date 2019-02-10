@@ -2,6 +2,9 @@ Emoji
 =====
 Emoji for Python. This project was inspired by kyokomi.
 
+
+BUILDING STATUS:
+----------
 .. image:: https://travis-ci.com/Eloypripan/emoji.svg?branch=master
     :target: https://travis-ci.com/Eloypripan/emoji
 
