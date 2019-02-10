@@ -1,5 +1,12 @@
 emoji
 =====
+0.3.6
+-----
+
+* Convert and build emoji as an API
+* Adding support for telegrams bots
+* Compatibilice telegramAPI wicht emogiApi
+
 
 0.3.5
 -----
