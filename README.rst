@@ -2,7 +2,7 @@ Emoji
 =====
 Emoji for Python. This project was inspired by kyokomi.
 
-https://travis-ci.com/Eloypripan/emoji.svg?branch=master
+[![Build Status](https://travis-ci.com/Eloypripan/emoji.svg?branch=master)](https://travis-ci.com/Eloypripan/emoji)
 
 [![wercker status](https://app.wercker.com/status/d4061cd05f846cac1b73a3f00c816a98/s/master "wercker status")](https://app.wercker.com/project/byKey/d4061cd05f846cac1b73a3f00c816a98)
 
