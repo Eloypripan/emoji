@@ -46,7 +46,7 @@ From master branch:
 
     $ git clone https://github.com/Eloypripan/emoji.git
     $ cd emoji
-    $ python setup.py install
+    $ python3 setup.py install
 
 
 Developing
