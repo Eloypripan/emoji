@@ -66,6 +66,7 @@ scrapes a table on the Unicode Consortium's website with
 contents to ``stdout`` in a more useful format.
 
 .. code-block:: console
+
     $ sudo apt install python3-bs4
     $ cd ~/emoji/utils
     $ python3 get-codes-from-unicode-consortium.py
