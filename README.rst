@@ -43,8 +43,8 @@ Via pip:
 From master branch:
 
 .. code-block:: console
-
-    $ git clone https://github.com/Eloypripan/emoji.git
+    
+    $ git clone https://github.com/carpedm20/emoji.git
     $ cd emoji
     $ python3 setup.py install
 
@@ -54,7 +54,7 @@ Developing
 
 .. code-block:: console
 
-    $ git clone https://github.com/Eloypripan/emoji.git
+    $ git clone https://github.com/carpedm20/emoji.git
     $ cd emoji
     $ pip install -e .\[dev\]
     $ nosetests
@@ -65,6 +65,11 @@ scrapes a table on the Unicode Consortium's website with
 `BeautifulSoup <http://www.crummy.com/software/BeautifulSoup/>`_ and prints the
 contents to ``stdout`` in a more useful format.
 
+.. code-block:: console
+    $ sudo apt install python3-bs4
+    $ cd ~/emoji/utils
+    $ python3 get-codes-from-unicode-consortium.py
+    
 
 Link
 ----
